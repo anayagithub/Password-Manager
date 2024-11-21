@@ -1,7 +1,7 @@
 
-# PassiFY
+### PassiFY
 
-PassiFY is a simple web application designed to securely manage and store passwords. This frontend-only project provides users with an easy way to add, edit, and organize their passwords. It is built with a focus on simplicity and user-friendliness.
+PassiFY is a simple web application designed to securely manage and store passwords. This platform provides users with an easy way to add, edit, and organize their passwords. It is built with a focus on simplicity and user-friendliness.
 
 ## Features
 - **Add Password**: Allows users to save their passwords securely.
@@ -10,14 +10,17 @@ PassiFY is a simple web application designed to securely manage and store passwo
 
 ## Technologies Used
 - HTML
-- CSS
+- Tailwind css
 - JavaScript
+- Reactjs
 
 ## Setup Instructions
 
 To get started with PassiFY, follow these steps:
 
-### 1. Clone the repository:
+# 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/PassiFY.git
+https://github.com/anayagithub/Password-Manager.git
+
+## Open the project folder:
 
